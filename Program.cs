@@ -1,4 +1,6 @@
 ﻿
+Console.WriteLine(Person.Sayhi(GetAge));
+
 
 
 //MyDegegate g = GetMsg;
