@@ -1,0 +1,15 @@
+E:\c#体系课\net core\linq\code\demo01复习委托\bin\Debug\net7.0\demo01复习委托.exe
+E:\c#体系课\net core\linq\code\demo01复习委托\bin\Debug\net7.0\demo01复习委托.deps.json
+E:\c#体系课\net core\linq\code\demo01复习委托\bin\Debug\net7.0\demo01复习委托.runtimeconfig.json
+E:\c#体系课\net core\linq\code\demo01复习委托\bin\Debug\net7.0\demo01复习委托.dll
+E:\c#体系课\net core\linq\code\demo01复习委托\bin\Debug\net7.0\demo01复习委托.pdb
+E:\c#体系课\net core\linq\code\demo01复习委托\obj\Debug\net7.0\demo01复习委托.csproj.AssemblyReference.cache
+E:\c#体系课\net core\linq\code\demo01复习委托\obj\Debug\net7.0\demo01复习委托.GeneratedMSBuildEditorConfig.editorconfig
+E:\c#体系课\net core\linq\code\demo01复习委托\obj\Debug\net7.0\demo01复习委托.AssemblyInfoInputs.cache
+E:\c#体系课\net core\linq\code\demo01复习委托\obj\Debug\net7.0\demo01复习委托.AssemblyInfo.cs
+E:\c#体系课\net core\linq\code\demo01复习委托\obj\Debug\net7.0\demo01复习委托.csproj.CoreCompileInputs.cache
+E:\c#体系课\net core\linq\code\demo01复习委托\obj\Debug\net7.0\demo01复习委托.dll
+E:\c#体系课\net core\linq\code\demo01复习委托\obj\Debug\net7.0\refint\demo01复习委托.dll
+E:\c#体系课\net core\linq\code\demo01复习委托\obj\Debug\net7.0\demo01复习委托.pdb
+E:\c#体系课\net core\linq\code\demo01复习委托\obj\Debug\net7.0\demo01复习委托.genruntimeconfig.cache
+E:\c#体系课\net core\linq\code\demo01复习委托\obj\Debug\net7.0\ref\demo01复习委托.dll
